@@ -3,7 +3,7 @@ Welcome to the Aaru wiki.
 Aaru is a tool designed to handle different media dump formats (also called disc or disk images) and do common operations with them.
 
 '''What do you want to do?'''
-* [[Analyzing-a-media-dump|Analyze a media dump|]]
+* [[Analyzing-a-media-dump.mediawiki|Analyze a media dump|]]
 * [[Checksum-benchmarking|Check how fast will Aaru create hashes on my computer]]
 * [[Getting-hashes-and-checksums-from-a-media-dump|Get checksums or hashes from a dump]]
 * [[Comparing-two-media-dumps|Compare two media dumps]]
